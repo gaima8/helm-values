@@ -1,4 +1,4 @@
 image:
   repository: eu.gcr.io/in2plane-cloud/nginx
-  tag: develop
+  tag: develop@sha256:931fe94a9cb5afc19010f69d4b31838a59ed91eef0fc38334134100d2923d024
   probeURL: manifest.json
