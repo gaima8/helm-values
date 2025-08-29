@@ -4,5 +4,5 @@ helm:
     value: eu.gcr.io/in2plane-cloud/nginx
     forcestring: true
   - name: image.tag
-    value: develop@sha256:6325c7eeae9d71fbba1759bb4788c71887d8c645b404e0c71048895c24227322
+    value: develop@sha256:4a7fa300059594913e137ee8e514ab3fbf5fecfae5007c99cc40c61a12206276
     forcestring: true
